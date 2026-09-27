@@ -1,3 +1,9 @@
-DevOps Lab Repository
+# Hello World
 
-Modified for Task 4 Continuous Integration Testing
+java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+
